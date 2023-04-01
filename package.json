@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/androidvt/plugindisonex.git"
+    "url": "git+https://github.com/evigolin/plugindisonex.git"
   },
   "bugs": {
-    "url": "https://github.com/androidvt/plugindisonex.git/issues"
+    "url": "https://github.com/evigolin/plugindisonex/issues"
   },
   "keywords": [
     "capacitor",
